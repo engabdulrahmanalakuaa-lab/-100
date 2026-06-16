@@ -9,7 +9,7 @@
     "postinstall": "electron-builder install-app-deps"
   },
   "dependencies": {
-    "sqlite3": "^5.1.7",
+    "better-sqlite3": "^11.0.0",
     "bcrypt": "^5.1.1",
     "node-thermal-printer": "^4.4.0",
     "pdfmake": "^0.2.7"
